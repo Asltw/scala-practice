@@ -1,2 +1,12 @@
+/target/
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
 *.class
 *.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.DS_Store
